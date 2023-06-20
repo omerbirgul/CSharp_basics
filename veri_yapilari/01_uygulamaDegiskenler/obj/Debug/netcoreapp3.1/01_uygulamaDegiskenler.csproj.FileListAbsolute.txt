@@ -1,0 +1,13 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.runtimeconfig.dev.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\bin\Debug\netcoreapp3.1\01_uygulamaDegiskenler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.csprojAssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\01_uygulamaDegiskenler\obj\Debug\netcoreapp3.1\01_uygulamaDegiskenler.genruntimeconfig.cache
