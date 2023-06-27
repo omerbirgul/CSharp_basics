@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\bin\Debug\net7.0\03_strings.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\bin\Debug\net7.0\03_strings.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\bin\Debug\net7.0\03_strings.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\bin\Debug\net7.0\03_strings.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\bin\Debug\net7.0\03_strings.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\refint\03_strings.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\03_strings.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\03_strings\obj\Debug\net7.0\ref\03_strings.dll
