@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\bin\Debug\net7.0\04_diziler.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\bin\Debug\net7.0\04_diziler.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\bin\Debug\net7.0\04_diziler.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\bin\Debug\net7.0\04_diziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\bin\Debug\net7.0\04_diziler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\refint\04_diziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\04_diziler.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\04_diziler\obj\Debug\net7.0\ref\04_diziler.dll
