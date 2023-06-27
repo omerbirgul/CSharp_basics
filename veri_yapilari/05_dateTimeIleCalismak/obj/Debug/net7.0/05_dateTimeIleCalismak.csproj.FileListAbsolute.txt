@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\bin\Debug\net7.0\05_dateTimeIleCalismak.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\bin\Debug\net7.0\05_dateTimeIleCalismak.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\bin\Debug\net7.0\05_dateTimeIleCalismak.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\bin\Debug\net7.0\05_dateTimeIleCalismak.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\bin\Debug\net7.0\05_dateTimeIleCalismak.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\refint\05_dateTimeIleCalismak.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\05_dateTimeIleCalismak.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\veri_yapilari\05_dateTimeIleCalismak\obj\Debug\net7.0\ref\05_dateTimeIleCalismak.dll
