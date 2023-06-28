@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\bin\Debug\net7.0\01_uygulamaOperatorler.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\bin\Debug\net7.0\01_uygulamaOperatorler.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\bin\Debug\net7.0\01_uygulamaOperatorler.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\bin\Debug\net7.0\01_uygulamaOperatorler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\bin\Debug\net7.0\01_uygulamaOperatorler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\refint\01_uygulamaOperatorler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\01_uygulamaOperatorler.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\01_uygulamaOperatorler\obj\Debug\net7.0\ref\01_uygulamaOperatorler.dll
