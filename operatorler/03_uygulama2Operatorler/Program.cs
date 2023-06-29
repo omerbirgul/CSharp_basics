@@ -21,20 +21,30 @@ class Program
 
         // 2-) Parola ve email bilgisini isteyip doğruluğunu kontrol ediniz.
 
-        Console.Write("email giriniz: ");
-        var userEmail = Console.ReadLine();
+        // Console.Write("email giriniz: ");
+        // var userEmail = Console.ReadLine();
 
-        Console.Write("parola giriniz: ");
-        var userPassword = Console.ReadLine();
+        // Console.Write("parola giriniz: ");
+        // var userPassword = Console.ReadLine();
 
-        string email = "omerbirgul@hotmail.com";
-        string password = "123456";
+        // string email = "omerbirgul@hotmail.com";
+        // string password = "123456";
 
-        var statu = (userEmail == email)?
-        (userPassword == password)? "email doğru, parola doğru" : "email doğru, parola yanliş":
-        (userPassword == password)? "email yanliş, parola doğru": "email yanliş parola yanliş";
+        // var statu = (userEmail == email)?
+        // (userPassword == password)? "email doğru, parola doğru" : "email doğru, parola yanliş":
+        // (userPassword == password)? "email yanliş, parola doğru": "email yanliş parola yanliş";
 
-        System.Console.WriteLine(statu);
+        // System.Console.WriteLine(statu);
+
+
+
+        // 3-) Girilen bir sayının pozitif çift sayı olup olmadığını kontrol et.
+
+        Console.Write("sayi girin: ");
+        int a = int.Parse(Console.ReadLine());
+        
+        var deger = (a >= 0) && (a % 2 == 0)? "sayi pozitif çiftdir" : " ";
+        System.Console.WriteLine(deger);
 
     }
 }
