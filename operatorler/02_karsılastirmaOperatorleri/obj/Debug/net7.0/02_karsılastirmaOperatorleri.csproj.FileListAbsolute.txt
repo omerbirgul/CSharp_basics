@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\bin\Debug\net7.0\02_karsılastirmaOperatorleri.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\bin\Debug\net7.0\02_karsılastirmaOperatorleri.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\bin\Debug\net7.0\02_karsılastirmaOperatorleri.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\bin\Debug\net7.0\02_karsılastirmaOperatorleri.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\bin\Debug\net7.0\02_karsılastirmaOperatorleri.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\refint\02_karsılastirmaOperatorleri.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\02_karsılastirmaOperatorleri.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\operatorler\02_karsılastirmaOperatorleri\obj\Debug\net7.0\ref\02_karsılastirmaOperatorleri.dll
