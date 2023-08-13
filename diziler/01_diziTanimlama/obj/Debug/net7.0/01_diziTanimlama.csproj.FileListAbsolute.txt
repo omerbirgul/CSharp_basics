@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\bin\Debug\net7.0\01_diziTanimlama.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\bin\Debug\net7.0\01_diziTanimlama.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\bin\Debug\net7.0\01_diziTanimlama.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\bin\Debug\net7.0\01_diziTanimlama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\bin\Debug\net7.0\01_diziTanimlama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\refint\01_diziTanimlama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\01_diziTanimlama.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\01_diziTanimlama\obj\Debug\net7.0\ref\01_diziTanimlama.dll
