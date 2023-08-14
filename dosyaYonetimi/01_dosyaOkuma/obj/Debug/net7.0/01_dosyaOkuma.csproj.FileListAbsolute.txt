@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\bin\Debug\net7.0\01_dosyaOkuma.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\bin\Debug\net7.0\01_dosyaOkuma.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\bin\Debug\net7.0\01_dosyaOkuma.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\bin\Debug\net7.0\01_dosyaOkuma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\bin\Debug\net7.0\01_dosyaOkuma.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\refint\01_dosyaOkuma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\01_dosyaOkuma.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\01_dosyaOkuma\obj\Debug\net7.0\ref\01_dosyaOkuma.dll
