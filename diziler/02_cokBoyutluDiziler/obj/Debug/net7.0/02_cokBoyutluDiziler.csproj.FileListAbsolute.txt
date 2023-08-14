@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\bin\Debug\net7.0\02_cokBoyutluDiziler.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\bin\Debug\net7.0\02_cokBoyutluDiziler.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\bin\Debug\net7.0\02_cokBoyutluDiziler.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\bin\Debug\net7.0\02_cokBoyutluDiziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\bin\Debug\net7.0\02_cokBoyutluDiziler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\refint\02_cokBoyutluDiziler.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\02_cokBoyutluDiziler.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\diziler\02_cokBoyutluDiziler\obj\Debug\net7.0\ref\02_cokBoyutluDiziler.dll
