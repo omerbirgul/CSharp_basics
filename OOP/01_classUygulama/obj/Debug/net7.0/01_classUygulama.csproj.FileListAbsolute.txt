@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\bin\Debug\net7.0\01_classUygulama.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\bin\Debug\net7.0\01_classUygulama.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\bin\Debug\net7.0\01_classUygulama.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\bin\Debug\net7.0\01_classUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\bin\Debug\net7.0\01_classUygulama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\refint\01_classUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\01_classUygulama.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\01_classUygulama\obj\Debug\net7.0\ref\01_classUygulama.dll
