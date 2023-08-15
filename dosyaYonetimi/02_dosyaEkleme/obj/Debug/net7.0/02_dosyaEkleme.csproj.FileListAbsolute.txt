@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\bin\Debug\net7.0\02_dosyaEkleme.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\bin\Debug\net7.0\02_dosyaEkleme.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\bin\Debug\net7.0\02_dosyaEkleme.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\bin\Debug\net7.0\02_dosyaEkleme.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\bin\Debug\net7.0\02_dosyaEkleme.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\refint\02_dosyaEkleme.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\02_dosyaEkleme.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\02_dosyaEkleme\obj\Debug\net7.0\ref\02_dosyaEkleme.dll
