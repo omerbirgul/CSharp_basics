@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\bin\Debug\net7.0\02_methodlar.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\bin\Debug\net7.0\02_methodlar.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\bin\Debug\net7.0\02_methodlar.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\bin\Debug\net7.0\02_methodlar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\bin\Debug\net7.0\02_methodlar.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\refint\02_methodlar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\02_methodlar.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\02_methodlar\obj\Debug\net7.0\ref\02_methodlar.dll
