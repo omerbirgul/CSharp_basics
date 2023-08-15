@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\bin\Debug\net7.0\03_klasorlerleCalisma.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\bin\Debug\net7.0\03_klasorlerleCalisma.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\bin\Debug\net7.0\03_klasorlerleCalisma.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\bin\Debug\net7.0\03_klasorlerleCalisma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\bin\Debug\net7.0\03_klasorlerleCalisma.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\refint\03_klasorlerleCalisma.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\03_klasorlerleCalisma.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\dosyaYonetimi\03_klasorlerleCalisma\obj\Debug\net7.0\ref\03_klasorlerleCalisma.dll
