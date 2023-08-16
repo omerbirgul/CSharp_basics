@@ -1,4 +1,5 @@
-﻿namespace _04_constructorMethods; 
+﻿using System.Runtime.Intrinsics.X86;
+namespace _04_constructorMethods; 
 using System;
 class Program
 {
@@ -28,6 +29,7 @@ class Soru{
     public string SoruMetni { get; set; }
     public string[] Secenekler { get; set; }
     public string Cevap { get; set; }
+    public int SoruId { get; set; }
 
     public bool cevapKontrol(string cevap){
         return this.Cevap.ToLower() == cevap.ToLower();
