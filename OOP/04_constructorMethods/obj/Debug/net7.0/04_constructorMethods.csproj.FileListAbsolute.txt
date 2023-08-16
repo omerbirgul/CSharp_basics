@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\bin\Debug\net7.0\04_constructorMethods.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\bin\Debug\net7.0\04_constructorMethods.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\bin\Debug\net7.0\04_constructorMethods.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\bin\Debug\net7.0\04_constructorMethods.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\bin\Debug\net7.0\04_constructorMethods.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\refint\04_constructorMethods.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\04_constructorMethods.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\04_constructorMethods\obj\Debug\net7.0\ref\04_constructorMethods.dll
