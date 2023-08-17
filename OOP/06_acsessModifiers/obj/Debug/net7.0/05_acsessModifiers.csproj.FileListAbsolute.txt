@@ -1,0 +1,15 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\bin\Debug\net7.0\05_acsessModifiers.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\bin\Debug\net7.0\05_acsessModifiers.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\bin\Debug\net7.0\05_acsessModifiers.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\bin\Debug\net7.0\05_acsessModifiers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\bin\Debug\net7.0\05_acsessModifiers.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.csproj.AssemblyReference.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\refint\05_acsessModifiers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\05_acsessModifiers.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\.net_core_workspace\OOP\05_acsessModifiers\obj\Debug\net7.0\ref\05_acsessModifiers.dll
