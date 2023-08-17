@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\bin\Debug\net7.0\05_constructorMethodsUygulama.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\bin\Debug\net7.0\05_constructorMethodsUygulama.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\bin\Debug\net7.0\05_constructorMethodsUygulama.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\bin\Debug\net7.0\05_constructorMethodsUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\bin\Debug\net7.0\05_constructorMethodsUygulama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\refint\05_constructorMethodsUygulama.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\05_constructorMethodsUygulama.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\05_constructorMethodsUygulama\obj\Debug\net7.0\ref\05_constructorMethodsUygulama.dll
