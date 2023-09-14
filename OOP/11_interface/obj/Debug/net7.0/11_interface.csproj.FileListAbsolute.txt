@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\bin\Debug\net7.0\11_interface.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\bin\Debug\net7.0\11_interface.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\bin\Debug\net7.0\11_interface.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\bin\Debug\net7.0\11_interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\bin\Debug\net7.0\11_interface.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\refint\11_interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\11_interface.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\11_interface\obj\Debug\net7.0\ref\11_interface.dll
