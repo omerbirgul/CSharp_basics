@@ -39,13 +39,25 @@ static class ProductManager{
 
         return product;
     }
+
+
+    public static Product GetProductByName(string name){
+        Product product = null;
+        foreach(var j in Products){
+            if(j.ProductName.Contains(name.ToLower())){
+                product = j;
+                break;
+            }
+        }
+        return product;
+    }
 }
 
 class Program
 {
     static void Main(string[] args)
     {
-        var p1 = ProductManager.getProductById(2);
+        var p1 = ProductManager.GetProductByName("11");
             System.Console.WriteLine($"name: {p1.ProductName}, price: {p1.ProductPrice}");
 
         
