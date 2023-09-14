@@ -7,9 +7,11 @@ class Person{
 
     public Person(string name, string surName){
         this.Name = name;
-        this.SurName = surName;
+        this.SurName = surName;        
+    }
 
-        
+    public virtual void intro(){
+        System.Console.WriteLine($"name: {this.Name} surname: {this.SurName}");
     }
 }
 
@@ -21,6 +23,12 @@ class Student: Person{
         this.StudentNumber = StudentNumber;
         
     }
+
+    public override void intro()
+    {
+        System.Console.WriteLine($"name: {this.Name} surname: {this.SurName} number: {this.StudentNumber}");
+        
+    }
 }
 
 class Program
@@ -30,7 +38,7 @@ class Program
         var p = new Person("omer","birgul");
         var s = new Student("duygu","er","12345");
 
-        System.Console.WriteLine($"name: {p.Name} surname: {p.SurName}");
-        System.Console.WriteLine($"name: {s.Name} surname: {s.SurName} number: {s.StudentNumber}");
+        p.intro();
+        s.intro();
     }
 }
