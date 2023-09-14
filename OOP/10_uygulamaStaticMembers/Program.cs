@@ -27,16 +27,27 @@ static class ProductManager{
     public static Product[] GetProducts(){
         return Products;
     }
+
+    public static Product getProductById(int id){
+        Product product = null;
+
+        foreach(var j in Products  ){
+            if(j.ProductId == id){
+                product = j;
+            }
+        }
+
+        return product;
+    }
 }
 
 class Program
 {
     static void Main(string[] args)
     {
-        var p1 = ProductManager.GetProducts();
+        var p1 = ProductManager.getProductById(2);
+            System.Console.WriteLine($"name: {p1.ProductName}, price: {p1.ProductPrice}");
 
-        foreach(var i in p1){
-            System.Console.WriteLine($"name: {i.ProductName}, price: {i.ProductPrice}");
-        }
+        
     }
 }
