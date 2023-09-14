@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\bin\Debug\net7.0\10_uygulamaStaticMembers.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\bin\Debug\net7.0\10_uygulamaStaticMembers.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\bin\Debug\net7.0\10_uygulamaStaticMembers.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\bin\Debug\net7.0\10_uygulamaStaticMembers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\bin\Debug\net7.0\10_uygulamaStaticMembers.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\refint\10_uygulamaStaticMembers.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\10_uygulamaStaticMembers.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\10_uygulamaStaticMembers\obj\Debug\net7.0\ref\10_uygulamaStaticMembers.dll
