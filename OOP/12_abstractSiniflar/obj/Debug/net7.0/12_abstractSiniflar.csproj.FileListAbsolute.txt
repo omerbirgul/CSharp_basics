@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\bin\Debug\net7.0\12_abstractSiniflar.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\bin\Debug\net7.0\12_abstractSiniflar.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\bin\Debug\net7.0\12_abstractSiniflar.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\bin\Debug\net7.0\12_abstractSiniflar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\bin\Debug\net7.0\12_abstractSiniflar.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\refint\12_abstractSiniflar.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\12_abstractSiniflar.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\12_abstractSiniflar\obj\Debug\net7.0\ref\12_abstractSiniflar.dll
