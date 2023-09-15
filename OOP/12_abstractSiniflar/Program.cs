@@ -1,9 +1,14 @@
-﻿namespace _12_abstractSiniflar;
+﻿using System;
+namespace _12_abstractSiniflar;
 
 
 abstract class Shape{
     public int Width { get; set; }
     public int Height { get; set; }
+
+    public virtual void Draw(){
+        System.Console.WriteLine("draw a shape");
+    }
 
     public  Shape(int w, int h){
         this.Width = w;
@@ -24,6 +29,11 @@ class Square: Shape{
 
     }
 
+    public override void Draw()
+    {
+        System.Console.WriteLine("draw a square");
+    }
+
 }
 
 
@@ -31,6 +41,11 @@ class Rectangle: Shape{
 
     public  Rectangle(int w, int h):base(w,h) {
 
+    }
+
+    public override void Draw()
+    {
+        System.Console.WriteLine("draw a rectangle");
     }
 
     public int calculateArea(int w, int h){
@@ -54,6 +69,7 @@ class Program
 
         foreach(var s in shapes){
             System.Console.WriteLine($"alan: {s.calculateArea()}");;
+            s.Draw();
         }
 
 
