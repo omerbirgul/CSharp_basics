@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\bin\Debug\net7.0\03_DictionaryKeyValue.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\bin\Debug\net7.0\03_DictionaryKeyValue.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\bin\Debug\net7.0\03_DictionaryKeyValue.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\bin\Debug\net7.0\03_DictionaryKeyValue.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\bin\Debug\net7.0\03_DictionaryKeyValue.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\refint\03_DictionaryKeyValue.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\03_DictionaryKeyValue.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\03_DictionaryKeyValue\obj\Debug\net7.0\ref\03_DictionaryKeyValue.dll
