@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\bin\Debug\net7.0\02_genericList.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\bin\Debug\net7.0\02_genericList.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\bin\Debug\net7.0\02_genericList.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\bin\Debug\net7.0\02_genericList.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\bin\Debug\net7.0\02_genericList.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\refint\02_genericList.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\02_genericList.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\collections\02_genericList\obj\Debug\net7.0\ref\02_genericList.dll
