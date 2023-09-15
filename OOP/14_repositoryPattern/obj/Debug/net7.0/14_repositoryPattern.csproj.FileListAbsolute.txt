@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\bin\Debug\net7.0\14_repositoryPattern.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\bin\Debug\net7.0\14_repositoryPattern.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\bin\Debug\net7.0\14_repositoryPattern.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\bin\Debug\net7.0\14_repositoryPattern.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\bin\Debug\net7.0\14_repositoryPattern.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\refint\14_repositoryPattern.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\14_repositoryPattern.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\OOP\14_repositoryPattern\obj\Debug\net7.0\ref\14_repositoryPattern.dll

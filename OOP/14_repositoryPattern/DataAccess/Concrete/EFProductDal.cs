@@ -11,7 +11,7 @@ namespace _14_repositoryPattern.DataAccess.Concrete
     {
         public void Create(Product entity)
         {
-            throw new NotImplementedException();
+            System.Console.WriteLine("EFProduct - create");
         }
 
         public void Delete(int id)
@@ -20,6 +20,11 @@ namespace _14_repositoryPattern.DataAccess.Concrete
         }
 
         public Product GetById(int id)
+        {
+            throw new NotImplementedException();
+        }
+
+        public Product[] GetPopulerProducts()
         {
             throw new NotImplementedException();
         }

@@ -6,16 +6,8 @@ using _14_repositoryPattern.Entity;
 
 namespace _14_repositoryPattern.DataAccess.Abstract
 {
-    public interface ICategoryRepository
+    public interface ICategoryRepository:IRepository<Category>
     {
-        Category GetById(int id);
-
-
-        void Update(Category entity);
-
-
-        void Create(Category entity);
-
-        void Delete(int id);
+     Category[] GetCategories();   
     }
 }

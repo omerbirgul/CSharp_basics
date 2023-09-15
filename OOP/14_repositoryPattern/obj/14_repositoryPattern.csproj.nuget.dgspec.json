@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj": {}
+    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj": {
+    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj",
+        "projectUniqueName": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj",
         "projectName": "14_repositoryPattern",
-        "projectPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj",
+        "projectPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\14_repositoryPattern.csproj",
         "packagesPath": "C:\\Users\\ömer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\obj\\",
+        "outputPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\OOP\\14_repositoryPattern\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ömer\\AppData\\Roaming\\NuGet\\NuGet.Config",
