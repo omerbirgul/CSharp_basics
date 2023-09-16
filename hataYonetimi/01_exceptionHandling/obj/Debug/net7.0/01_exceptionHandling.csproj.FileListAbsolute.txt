@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\bin\Debug\net7.0\01_exceptionHandling.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\bin\Debug\net7.0\01_exceptionHandling.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\bin\Debug\net7.0\01_exceptionHandling.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\bin\Debug\net7.0\01_exceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\bin\Debug\net7.0\01_exceptionHandling.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\refint\01_exceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\01_exceptionHandling.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\01_exceptionHandling\obj\Debug\net7.0\ref\01_exceptionHandling.dll
