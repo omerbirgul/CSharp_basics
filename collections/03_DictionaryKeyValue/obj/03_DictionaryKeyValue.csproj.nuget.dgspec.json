@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj": {}
+    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj": {
+    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj",
+        "projectUniqueName": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj",
         "projectName": "03_DictionaryKeyValue",
-        "projectPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj",
+        "projectPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\03_DictionaryKeyValue.csproj",
         "packagesPath": "C:\\Users\\ömer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\obj\\",
+        "outputPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\C#-Basics\\collections\\03_DictionaryKeyValue\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ömer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,245 @@
+[33mcommit 3a87c2805179b7aded363f88e0296819f256445a[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Fri Sep 15 14:00:37 2023 +0300
+
+    interface
+
+[33mcommit 7c2fd4e6acb2c1a6578ff3755d0d97c38254a764[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Fri Sep 15 13:32:01 2023 +0300
+
+    fixed
+
+[33mcommit a5365783e7fff7d1385bbe981c6e705afe98beab[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Fri Sep 15 13:26:15 2023 +0300
+
+    abstarct siniflar
+
+[33mcommit 73a3f97308f58f622eff86dbf7df0d8575e4b44c[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 14:41:01 2023 +0300
+
+    interface V3
+
+[33mcommit 5af8e08c6c687d3d449f57db0b3514be4db80ba3[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 14:32:22 2023 +0300
+
+    interface V2
+
+[33mcommit f6074108b270e06b97d0acfe8a06c9ed5aa9b12b[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 14:27:34 2023 +0300
+
+    interface V1
+
+[33mcommit 3f68402aa31ad4ef53fd46a2eb16338772cfbfea[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 13:32:48 2023 +0300
+
+    static member uygulama V3
+
+[33mcommit 8a2b77d5fa3845ab89f46de4e614a088cc0adcff[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 13:13:00 2023 +0300
+
+    static members uygulama V2
+
+[33mcommit 65de27a48e5fe982f9599e165038119bdbb074c1[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Sep 14 12:56:51 2023 +0300
+
+    static member uygulama V1
+
+[33mcommit c7c636e6350fc5863d04ea192b91968c8f466c70[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Sep 13 23:33:48 2023 +0300
+
+    static members
+
+[33mcommit 88e4846bd5df05ec27451053153e5fa46daafca5[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Sep 13 22:45:01 2023 +0300
+
+    quiz uygulaması
+
+[33mcommit 8c3841845111065f54a1d276ef5a498914f36df2[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Aug 17 22:03:02 2023 +0300
+
+    fix typo
+
+[33mcommit 7f423ebbaecd5ae69844c2703d9940578fe605a6[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Aug 17 22:00:13 2023 +0300
+
+    add C# properties
+
+[33mcommit c47ba1d41ee5dfe522f8741e9359b1e066d57873[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Aug 17 21:42:06 2023 +0300
+
+    constructor metyhods uygulaması eklendi
+
+[33mcommit b82af188176c138388b5be7afa5c2303e96de3e9[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Aug 16 23:11:40 2023 +0300
+
+    methods uygulama2 add
+
+[33mcommit 8e736a08dabf5116386cb036788c8d80f14368b1[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Aug 16 14:38:21 2023 +0300
+
+    access modifiers added
+
+[33mcommit 89788c39ffedd34543171e969024772582204b0e[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Aug 16 14:22:26 2023 +0300
+
+    fix typo
+
+[33mcommit bc7f0b89bde254130237899f2c8199312b186013[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Aug 16 13:24:58 2023 +0300
+
+    constructors methods added
+
+[33mcommit 8e9e0f714f784afaef3384e0dad588d7a0411917[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Aug 16 12:37:27 2023 +0300
+
+    C# metod uygulamasi added
+
+[33mcommit 20b600c46b149c2b8cab6dbdcdce565e25ae6f02[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Aug 15 19:38:59 2023 +0300
+
+    c# metodlar eklendi
+
+[33mcommit 63a699268b80d23d31190914aaae11709419cb49[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Aug 15 16:16:43 2023 +0300
+
+    c# class uygulamasi added
+
+[33mcommit fbec9e725194a2bc9638250e0412b800403dd13a[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Aug 15 14:47:43 2023 +0300
+
+    working with folders added
+
+[33mcommit db7e904a7b5b56d18da1ae5aaf3ca936d493eaf1[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Aug 15 14:31:10 2023 +0300
+
+    file management file writing added
+
+[33mcommit c1c1d979abd98d48a5b39df182b10ce2bec6d03b[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Aug 15 00:11:21 2023 +0300
+
+    c# file reading
+
+[33mcommit d224eab13b635bb2f89142476bacb93941675a50[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Mon Aug 14 22:25:11 2023 +0300
+
+    ds
+
+[33mcommit b3e0402e83d58f9bdabf2ce9d63a8475bba30db7[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Mon Aug 14 00:07:15 2023 +0300
+
+    uygulama modified
+
+[33mcommit ac70718bfa1002de70a637fd870c0d07a24c7848[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Sun Aug 13 23:59:57 2023 +0300
+
+    add diziler uygulama
+
+[33mcommit 20d72017c0daff4ae02accd147e04de6a53dddf0[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 20:05:30 2023 +0300
+
+    operator uygulama 05
+
+[33mcommit 91adfe63cc144a313e69989c69427f50c0f4f6ff[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 19:07:27 2023 +0300
+
+    operator uygulama 04
+
+[33mcommit 9e295d97aaff6c431409291412ec297099824341[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 18:55:14 2023 +0300
+
+    operatorler uygulama 03
+
+[33mcommit 3acf0059258e82aa9f3bee42ac7fec3533162065[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 17:02:00 2023 +0300
+
+    operator uygulaması 02
+
+[33mcommit 486efe27b08923c54f1fb744311a270f91d61edd[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 16:51:29 2023 +0300
+
+    operatorler uygulaması 01
+
+[33mcommit 5fec851cd9cd98ebd5b392bdc47c6c9e0d065c96[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 16:37:42 2023 +0300
+
+    karsilastirma operatorleri
+
+[33mcommit 99db3a35c514ca954165948a16afaeba97906eeb[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Thu Jun 29 00:25:54 2023 +0300
+
+    uygulama: operatorler
+
+[33mcommit 545df3458ceafa7510b9b0b5bc880f83282c758d[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Jun 28 01:10:49 2023 +0300
+
+    add datetime
+
+[33mcommit 99ed60ef68d0988be42364dece1e41d61fb1f32e[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Wed Jun 28 00:52:13 2023 +0300
+
+    add array methods
+
+[33mcommit a1c5ef4327a354953ebf8ddeb2668f4483c20fdd[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Jun 27 23:54:08 2023 +0300
+
+    add arrays
+
+[33mcommit e0e95a5984f559c847d23eb7b973a96fd800f6da[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Jun 27 23:23:45 2023 +0300
+
+    add string page
+
+[33mcommit 17d9d36ec1568e13ce88b80192c7c3fd0d6e6514[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Jun 20 22:42:57 2023 +0300
+
+    add uygulama veri tipi donusumu
+
+[33mcommit 676cfe554b8adb228df528aef81f28ca54c6d198[m
+Author: Omer Faruk Birgul <omerbirgul1@hotmail.com>
+Date:   Tue Jun 20 17:08:05 2023 +0300
+
+    veri yapiları 01 add
+
+[33mcommit d4ed3e7559eb5ebbf9fc2907e279c3de0682db18[m
+Author: Ömer Faruk Birgül <64749071+omerbirgul@users.noreply.github.com>
+Date:   Tue Jun 20 15:52:40 2023 +0300
+
+    Initial commit
