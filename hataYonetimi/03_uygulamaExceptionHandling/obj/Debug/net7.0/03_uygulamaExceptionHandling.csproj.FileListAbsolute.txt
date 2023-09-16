@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\bin\Debug\net7.0\03_uygulamaExceptionHandling.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\bin\Debug\net7.0\03_uygulamaExceptionHandling.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\bin\Debug\net7.0\03_uygulamaExceptionHandling.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\bin\Debug\net7.0\03_uygulamaExceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\bin\Debug\net7.0\03_uygulamaExceptionHandling.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\refint\03_uygulamaExceptionHandling.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\03_uygulamaExceptionHandling.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\03_uygulamaExceptionHandling\obj\Debug\net7.0\ref\03_uygulamaExceptionHandling.dll
