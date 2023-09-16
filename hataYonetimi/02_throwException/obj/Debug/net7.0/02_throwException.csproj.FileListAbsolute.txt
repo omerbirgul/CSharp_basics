@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\bin\Debug\net7.0\02_throwException.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\bin\Debug\net7.0\02_throwException.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\bin\Debug\net7.0\02_throwException.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\bin\Debug\net7.0\02_throwException.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\bin\Debug\net7.0\02_throwException.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\refint\02_throwException.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\02_throwException.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\C#-Basics\hataYonetimi\02_throwException\obj\Debug\net7.0\ref\02_throwException.dll
