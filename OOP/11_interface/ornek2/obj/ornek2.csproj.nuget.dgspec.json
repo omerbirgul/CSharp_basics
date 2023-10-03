@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj": {}
+    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj": {
+    "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj",
+        "projectUniqueName": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj",
         "projectName": "ornek2",
-        "projectPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj",
+        "projectPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\ornek2.csproj",
         "packagesPath": "C:\\Users\\ömer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\obj\\",
+        "outputPath": "C:\\Users\\ömer\\OneDrive\\Masaüstü\\GİTHUB\\CSharp_basics\\OOP\\11_interface\\ornek2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ömer\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -26,9 +26,9 @@ class Student :Iperson
 
 class PersonManager
 {
-    public void Add(Customer customer)
+    public void Add(Iperson person)
     {
-        System.Console.WriteLine(customer.FirstName);
+        System.Console.WriteLine(person.FirstName);
     }
 }
 
@@ -37,6 +37,22 @@ class Program
     static void Main(string[] args)
     {
         PersonManager manager = new PersonManager();
-        manager.Add(new Customer{ID=1,FirstName="omer",LastName="birgul"});
+        Customer customer = new Customer()
+        {
+           ID=1,
+           FirstName="omer",
+           LastName="birgul" 
+        };
+        manager.Add(customer);
+
+        Student student = new Student(){
+            ID=1,
+            FirstName="duygu",
+            LastName="er",
+            Department="Computer science"
+        };
+
+        manager.Add(student);
+    
     }
 }

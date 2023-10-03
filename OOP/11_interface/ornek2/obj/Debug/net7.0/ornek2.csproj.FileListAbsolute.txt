@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\bin\Debug\net7.0\ornek2.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\bin\Debug\net7.0\ornek2.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\bin\Debug\net7.0\ornek2.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\bin\Debug\net7.0\ornek2.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\bin\Debug\net7.0\ornek2.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\refint\ornek2.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ornek2.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\11_interface\ornek2\obj\Debug\net7.0\ref\ornek2.dll
