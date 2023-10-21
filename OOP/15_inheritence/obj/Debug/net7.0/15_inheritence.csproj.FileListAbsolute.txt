@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\bin\Debug\net7.0\15_inheritence.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\bin\Debug\net7.0\15_inheritence.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\bin\Debug\net7.0\15_inheritence.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\bin\Debug\net7.0\15_inheritence.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\bin\Debug\net7.0\15_inheritence.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\refint\15_inheritence.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\15_inheritence.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\15_inheritence\obj\Debug\net7.0\ref\15_inheritence.dll
