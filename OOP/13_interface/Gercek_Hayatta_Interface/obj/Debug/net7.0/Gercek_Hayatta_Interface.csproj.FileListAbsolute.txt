@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\bin\Debug\net7.0\Gercek_Hayatta_Interface.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\bin\Debug\net7.0\Gercek_Hayatta_Interface.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\bin\Debug\net7.0\Gercek_Hayatta_Interface.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\bin\Debug\net7.0\Gercek_Hayatta_Interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\bin\Debug\net7.0\Gercek_Hayatta_Interface.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\refint\Gercek_Hayatta_Interface.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\Gercek_Hayatta_Interface.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\13_interface\Gercek_Hayatta_Interface\obj\Debug\net7.0\ref\Gercek_Hayatta_Interface.dll
