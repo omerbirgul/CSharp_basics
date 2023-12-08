@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\bin\Debug\net7.0\04_constructorInjection.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\bin\Debug\net7.0\04_constructorInjection.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\bin\Debug\net7.0\04_constructorInjection.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\bin\Debug\net7.0\04_constructorInjection.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\bin\Debug\net7.0\04_constructorInjection.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\refint\04_constructorInjection.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\04_constructorInjection.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\04_constructorInjection\obj\Debug\net7.0\ref\04_constructorInjection.dll
