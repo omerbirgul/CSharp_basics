@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\bin\Debug\net7.0\16_recapDemo.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\bin\Debug\net7.0\16_recapDemo.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\bin\Debug\net7.0\16_recapDemo.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\bin\Debug\net7.0\16_recapDemo.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\bin\Debug\net7.0\16_recapDemo.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\refint\16_recapDemo.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\16_recapDemo.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\OOP\16_recapDemo\obj\Debug\net7.0\ref\16_recapDemo.dll
