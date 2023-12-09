@@ -1,0 +1,14 @@
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\bin\Debug\net7.0\04_writeOwnExcepitonClass.exe
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\bin\Debug\net7.0\04_writeOwnExcepitonClass.deps.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\bin\Debug\net7.0\04_writeOwnExcepitonClass.runtimeconfig.json
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\bin\Debug\net7.0\04_writeOwnExcepitonClass.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\bin\Debug\net7.0\04_writeOwnExcepitonClass.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.AssemblyInfoInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.AssemblyInfo.cs
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.csproj.CoreCompileInputs.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\refint\04_writeOwnExcepitonClass.dll
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.pdb
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\04_writeOwnExcepitonClass.genruntimeconfig.cache
+C:\Users\ömer\OneDrive\Masaüstü\GİTHUB\CSharp_basics\hataYonetimi\04_writeOwnExcepitonClass\obj\Debug\net7.0\ref\04_writeOwnExcepitonClass.dll
