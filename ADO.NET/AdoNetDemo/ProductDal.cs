@@ -10,18 +10,16 @@ namespace AdoNetDemo
 {
     public class ProductDal
     {
-        public List<Product> GetAll() 
+        SqlConnection _connection = new SqlConnection(@"server=(localdb)\mssqllocaldb;initial catalog=ETrade; integrated security=true");
+
+        public List<Product> GetAll()
         {
-            SqlConnection connection = new SqlConnection(@"server=(localdb)\mssqllocaldb;initial catalog=ETrade; integrated security=true");
-            if(connection.State == ConnectionState.Closed)
-            {
-                connection.Open();
-            }
-            SqlCommand command = new SqlCommand("Select * from Products",connection);
+            ConnectionControl();
+            SqlCommand command = new SqlCommand("Select * from Products", _connection);
             SqlDataReader reader = command.ExecuteReader();
 
             List<Product> products = new List<Product>();
-            while(reader.Read())
+            while (reader.Read())
             {
                 Product product = new Product
                 {
@@ -34,9 +32,29 @@ namespace AdoNetDemo
             }
 
             reader.Close();
-            connection.Close();
+            _connection.Close();
             return products;
 
+        }
+
+        private void ConnectionControl()
+        {
+            if (_connection.State == ConnectionState.Closed)
+            {
+                _connection.Open();
+            }
+        }
+
+        public void Add(Product product)
+        {
+            ConnectionControl();
+            SqlCommand command = new SqlCommand("INSERT INTO Products VALUES(@name, @unitPrice, @stockAmount)", _connection);
+            command.Parameters.AddWithValue("@name", product.Name);
+            command.Parameters.AddWithValue("@unitPrice", product.UnitPrice);
+            command.Parameters.AddWithValue("@stockAmount", product.StockAmount);
+
+            command.ExecuteNonQuery();
+            _connection.Close();
         }
     }
 }
