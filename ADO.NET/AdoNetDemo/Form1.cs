@@ -70,17 +70,25 @@ namespace AdoNetDemo
 
         private void btnUpdate_Click(object sender, EventArgs e)
         {
-            Product product = new Product
+            Product newProduct = new Product
             {
                 Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value),
                 Name = tbxNameUpdate.Text,
                 UnitPrice = Convert.ToDecimal(tbxUnitPriceUpdate.Text),
                 StockAmount = Convert.ToInt32(tbxStockAmountUpdate.Text)
             };
-            _productDal.Update(product);
+            _productDal.Update(newProduct);
             UpdateProducts();
             MessageBox.Show("Updated!");
 
+        }
+
+        private void btnRemove_Click(object sender, EventArgs e)
+        {
+            int id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value);
+            _productDal.Delete(id);
+            UpdateProducts();
+            MessageBox.Show("Deleted!");
         }
     }
 }

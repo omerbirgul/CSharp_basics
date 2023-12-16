@@ -45,6 +45,7 @@
             this.tbxStockAmountUpdate = new System.Windows.Forms.TextBox();
             this.lblUnitPriceUpdate = new System.Windows.Forms.Label();
             this.tbxUnitPriceUpdate = new System.Windows.Forms.TextBox();
+            this.btnRemove = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgwProducts)).BeginInit();
             this.gbxAdd.SuspendLayout();
             this.gbxUpdate.SuspendLayout();
@@ -54,11 +55,11 @@
             // 
             this.dgwProducts.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.Fill;
             this.dgwProducts.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dgwProducts.Location = new System.Drawing.Point(43, 54);
+            this.dgwProducts.Location = new System.Drawing.Point(43, 81);
             this.dgwProducts.Name = "dgwProducts";
             this.dgwProducts.RowHeadersWidth = 51;
             this.dgwProducts.RowTemplate.Height = 24;
-            this.dgwProducts.Size = new System.Drawing.Size(967, 284);
+            this.dgwProducts.Size = new System.Drawing.Size(967, 257);
             this.dgwProducts.TabIndex = 0;
             this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick);
             this.dgwProducts.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
@@ -216,11 +217,22 @@
             this.tbxUnitPriceUpdate.Size = new System.Drawing.Size(219, 26);
             this.tbxUnitPriceUpdate.TabIndex = 4;
             // 
+            // btnRemove
+            // 
+            this.btnRemove.Location = new System.Drawing.Point(822, 36);
+            this.btnRemove.Name = "btnRemove";
+            this.btnRemove.Size = new System.Drawing.Size(115, 33);
+            this.btnRemove.TabIndex = 9;
+            this.btnRemove.Text = "Remove";
+            this.btnRemove.UseVisualStyleBackColor = true;
+            this.btnRemove.Click += new System.EventHandler(this.btnRemove_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1085, 663);
+            this.Controls.Add(this.btnRemove);
             this.Controls.Add(this.gbxUpdate);
             this.Controls.Add(this.gbxAdd);
             this.Controls.Add(this.dgwProducts);
@@ -255,6 +267,7 @@
         private System.Windows.Forms.TextBox tbxStockAmountUpdate;
         private System.Windows.Forms.Label lblUnitPriceUpdate;
         private System.Windows.Forms.TextBox tbxUnitPriceUpdate;
+        private System.Windows.Forms.Button btnRemove;
     }
 }
 
