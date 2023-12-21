@@ -86,6 +86,7 @@
             this.btnUpdate.TabIndex = 7;
             this.btnUpdate.Text = "Update";
             this.btnUpdate.UseVisualStyleBackColor = true;
+            this.btnUpdate.Click += new System.EventHandler(this.btnUpdate_Click);
             // 
             // tbxNameUpdate
             // 
@@ -220,6 +221,7 @@
             this.dgwProducts.RowTemplate.Height = 24;
             this.dgwProducts.Size = new System.Drawing.Size(970, 199);
             this.dgwProducts.TabIndex = 10;
+            this.dgwProducts.CellClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellClick);
             this.dgwProducts.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwProducts_CellContentClick);
             // 
             // Form1
