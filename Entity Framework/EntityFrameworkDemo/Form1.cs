@@ -51,5 +51,6 @@ namespace EntityFrameworkDemo
             LoadProducts();
             MessageBox.Show("Added!");
         }
+
     }
 }
