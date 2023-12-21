@@ -1,0 +1,15 @@
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe.config
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.exe
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFrameworkDemo.pdb
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.dll
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.dll
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.xml
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\bin\Debug\EntityFramework.SqlServer.xml
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.AssemblyReference.cache
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Form1.resources
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.Properties.Resources.resources
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.GenerateResource.cache
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CoreCompileInputs.cache
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.csproj.CopyComplete
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.exe
+D:\BTKakademi\CSharpCourse\EntityFrameworkDemo\obj\Debug\EntityFrameworkDemo.pdb
