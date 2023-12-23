@@ -21,12 +21,12 @@ namespace EntityFrameworkDemo
 
         private void btnRemove_Click(object sender, EventArgs e)
         {
-
-        }
-
-        private void dgwProducts_CellContentClick(object sender, DataGridViewCellEventArgs e)
-        {
-
+            _productDal.Delete(new Product
+            {
+                Id = Convert.ToInt32(dgwProducts.CurrentRow.Cells[0].Value)
+            });
+            LoadProducts();
+            MessageBox.Show("Deleted!");
         }
 
         private void Form1_Load(object sender, EventArgs e)
